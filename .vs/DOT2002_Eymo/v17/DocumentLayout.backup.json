@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\assets\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\assets\\scripts\\sauroneye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sauroneye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|c:\\users\\eymen\\documents\\github\\dot2002_eymo\\assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\assets\\scripts\\doormovements2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doormovements2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\assets\\ursaanimation\\low poly cubic - goat and sheep pack\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|solutionrelative:assets\\ursaanimation\\low poly cubic - goat and sheep pack\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Flooded_Grounds\\PostProcessing\\Runtime\\Components\\MotionBlurComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Flooded_Grounds\\PostProcessing\\Runtime\\Components\\MotionBlurComponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\assets\\scripts\\doormovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189CC6D-5785-5A33-839C-4BD2690B3773}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doormovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SauronEye.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\SauronEye.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SauronEye.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\SauronEye.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SauronEye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:55:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorMovements2.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\DoorMovements2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorMovements2.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\DoorMovements2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorMovements2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:02:38.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoorMovements.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\DoorMovements.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorMovements.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\DoorMovements.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorMovements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:30:50.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a2829103b3d4\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-02-21T12:56:19.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControls.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\PlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControls.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\PlayerControls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControls.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAALYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:38:28.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterMovement.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\CharacterMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterMovement.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Scripts\\CharacterMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterMovement.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:52:21.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\UrsaAnimation\\LOW POLY CUBIC - Goat and Sheep Pack\\scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\UrsaAnimation\\LOW POLY CUBIC - Goat and Sheep Pack\\scripts\\AnimationController.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\UrsaAnimation\\LOW POLY CUBIC - Goat and Sheep Pack\\scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\UrsaAnimation\\LOW POLY CUBIC - Goat and Sheep Pack\\scripts\\AnimationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:54:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "RelativeToolTip": "Assets\\Flooded_Grounds\\PostProcessing\\Editor\\PropertyDrawers\\MinDrawer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T12:16:21.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotionBlurComponent.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Flooded_Grounds\\PostProcessing\\Runtime\\Components\\MotionBlurComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Flooded_Grounds\\PostProcessing\\Runtime\\Components\\MotionBlurComponent.cs",
+              "ToolTip": "C:\\Users\\eymen\\Documents\\GitHub\\DOT2002_Eymo\\Assets\\Flooded_Grounds\\PostProcessing\\Runtime\\Components\\MotionBlurComponent.cs",
+              "RelativeToolTip": "Assets\\Flooded_Grounds\\PostProcessing\\Runtime\\Components\\MotionBlurComponent.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:26:35.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
